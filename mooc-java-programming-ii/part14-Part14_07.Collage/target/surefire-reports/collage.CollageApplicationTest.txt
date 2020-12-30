@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: collage.CollageApplicationTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 1.33 s <<< FAILURE! - in collage.CollageApplicationTest
+stageContainsPaneThatContainsImageView(collage.CollageApplicationTest)  Time elapsed: 0.701 s  <<< ERROR!
+java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.AssertionError: Make sure that the CollageApplication class has a method called start that takes a Stage object as its parameter. If this is the case, make sure that the method works correctly. The error: 514, 0
+	at collage.CollageApplicationTest.start(CollageApplicationTest.java:53)
+
+part1(collage.CollageApplicationTest)  Time elapsed: 0.177 s  <<< ERROR!
+java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.AssertionError: Make sure that the CollageApplication class has a method called start that takes a Stage object as its parameter. If this is the case, make sure that the method works correctly. The error: 514, 0
+	at collage.CollageApplicationTest.start(CollageApplicationTest.java:53)
+
+part2(collage.CollageApplicationTest)  Time elapsed: 0.176 s  <<< ERROR!
+java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.AssertionError: Make sure that the CollageApplication class has a method called start that takes a Stage object as its parameter. If this is the case, make sure that the method works correctly. The error: 514, 0
+	at collage.CollageApplicationTest.start(CollageApplicationTest.java:53)
+
+part3(collage.CollageApplicationTest)  Time elapsed: 0.179 s  <<< ERROR!
+java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.AssertionError: Make sure that the CollageApplication class has a method called start that takes a Stage object as its parameter. If this is the case, make sure that the method works correctly. The error: 514, 0
+	at collage.CollageApplicationTest.start(CollageApplicationTest.java:53)
+
