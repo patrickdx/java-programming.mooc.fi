@@ -2,4 +2,4 @@
 
 University of Helsinki’s online course (MOOC) on programming! Focused on Object-Oriented Programming with Java
 
-All these exercises are completed by me and passes all the tests.
+just a repo to store my solutions.
